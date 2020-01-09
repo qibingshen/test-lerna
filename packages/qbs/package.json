@@ -12,5 +12,6 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "moment": "2.24.0"
-  }
+  },
+  "gitHead": "3b9142ae2cc53d8cd0da948957f76a0dd53dad3c"
 }
