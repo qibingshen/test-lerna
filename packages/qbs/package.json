@@ -1,5 +1,5 @@
 {
-  "name": "qbs",
+  "name": "@carelink/qbs",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
