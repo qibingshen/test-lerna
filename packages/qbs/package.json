@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "moment": "2.24.0"
+    "moment": "2.29.4"
   },
   "gitHead": "572b6c141b6bb351e7834da6b6f4e5728e8f5027"
 }
